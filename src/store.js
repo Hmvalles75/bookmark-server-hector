@@ -17,3 +17,5 @@ const bookmarks = [
     description: 'coding bootcamp',
     rating: 4 },
 ]
+
+module.exports = { bookmarks }
